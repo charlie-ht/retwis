@@ -16,7 +16,7 @@ The following is a description of the data layout.
 Users
 ---
 
-User IDs are generated sequencially via increments:
+User IDs are generated sequentially via increments:
 
     INCR next_user_id => 1000
 
